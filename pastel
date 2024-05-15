@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <meta charset="UTF-8">
+        <TITLE>
+            Pastéis.
+        </TITLE>
+        <style>
+            coisa{
+                width: 200px;
+                height: 200px;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="text-align: center; color: black;background-color: rgba(196, 138, 53, 0.87);border: 20px;">
+            <h1> Pastéis:</h1>
+            <p>
+                <h1> Hemillio. </h1>
+                <img src="hemillio.jpg"; class="coisa">
+                <p><a> Queijo parmesão, queijo cheddar e orégano. </a></p>
+            </p>
+            <p> 
+                <h1> Frind. </h1>
+                <img src="frind.jpg"; class="coisa">
+                <P><a> Palmito, cheiro verde e molho da casa.</a></P>
+            </p>
+            <p>
+                <h1> Pixel. </h1>
+                <img src="pastel carne.jpg"; class="coisa">
+                <p><a> Carne moída, ovo cozido, azeitona e queijo ralado.</a></p>
+            </p>
+            <div style="text-align: center; color: rgb(80, 26, 2);">
+                <h1> Sabemos o que você gosta e como gosta ein.</h1>
+            </div>
+        </body>
